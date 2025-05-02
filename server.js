@@ -36,4 +36,4 @@ app.use('/api/actuadores', actuadoresRoutes);
 
 // Iniciar servidor
 const PORT = process.env.PORT || 5000;
-app.listen(PORT, () => console.log(`🚀 Servidor en http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`Servidor en http://localhost:${PORT}`));
