@@ -16,8 +16,16 @@
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.14.1",
+    "morgan": "^1.10.0",
     "mssql": "^11.0.1",
     "pg": "^8.15.6",
     "sequelize": "^6.37.7"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.27.1",
+    "@babel/core": "^7.27.1",
+    "@babel/node": "^7.27.1",
+    "@babel/preset-env": "^7.27.1",
+    "nodemon": "^3.1.10"
   }
 }
